@@ -16,8 +16,6 @@ python main.py --numSamples [number]
 ### PRM with 1000 sample points.
 ![PRM_1000](1000_samples.png)
 
-### PRM with 5000 sample points.
-![PRM_5000](5000_samples.png)
 
 ## Steps of algorithm
 1. Generate n random samples called milestones.
