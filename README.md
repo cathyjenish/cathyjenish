@@ -1,5 +1,5 @@
-# PRM-Path-Planning
-Probabilistic Roadmaps is a path planning algorithm used in Robotics.
+# Polygon-Obstacle-Avoidance-Shortest-Path-Planning
+(PRM)Probabilistic Roadmaps is a path planning algorithm used in Robotics.
 
 ## How to run
 ```
