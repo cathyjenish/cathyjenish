@@ -13,6 +13,10 @@ python main.py --numSamples [number]
 ```
 
 ## Example Path
+
+### PRM with 1000 sample points.
+![Sample polygon obstacle avoidance](prm.jpeg)
+
 ### PRM with 1000 sample points.
 ![PRM_1000](1000_samples.png)
 
