@@ -15,7 +15,7 @@ python main.py --numSamples [number]
 ## Example Path
 
 ### PRM with sample polygon points.
-![photo](prm.jpeg)
+![photo](Prm.jpeg)
 
 ### PRM with 1000 sample points.
 ![PRM_1000](1000_samples.png)
