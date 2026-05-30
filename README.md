@@ -122,13 +122,6 @@ vibe = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cathyjenish&show_icons=true&theme=rose_pine&hide_border=true&bg_color=FFF0F8&title_color=C96B9A&icon_color=9B6B8A&text_color=5A3D58&ring_color=E8A0BF" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathyjenish&layout=compact&theme=rose_pine&hide_border=true&bg_color=FFF0F8&title_color=C96B9A&text_color=5A3D58" />
-
-</div>
 
 <div align="center">
 
