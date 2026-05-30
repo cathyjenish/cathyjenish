@@ -122,11 +122,25 @@ print(me.motto())
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph — Year Wise
 
 <div align="center">
 
-[![Catherine's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/cathyjenish)
+**2025**
+
+[![2025](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2025-01-01&to=2025-12-31&custom_title=2025+Contribution+Graph)](https://github.com/cathyjenish)
+
+**2024**
+
+[![2024](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2024-01-01&to=2024-12-31&custom_title=2024+Contribution+Graph)](https://github.com/cathyjenish)
+
+**2023**
+
+[![2023](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2023-01-01&to=2023-12-31&custom_title=2023+Contribution+Graph)](https://github.com/cathyjenish)
+
+**2022**
+
+[![2022](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2022-01-01&to=2022-12-31&custom_title=2022+Contribution+Graph)](https://github.com/cathyjenish)
 
 </div>
 
@@ -136,12 +150,11 @@ print(me.motto())
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=cathyjenish&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cathyjenish&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/cathyjenish)
 
 </div>
 
 ---
-
 ## 💼 Work Experience
 
 <details>
