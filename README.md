@@ -18,49 +18,21 @@
 
 ---
 ## 🌸 About Me
-
+ 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19,20&height=3&section=header" width="100%"/>
 </div>
-
 <br/>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="42%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" style="border-radius: 20px;"/>
-
-<br/><br/>
-
-> *✨ She codes with grace,*
-> *debugs with patience,*
-> *and ships with pride. 🌸*
-### 🌺 My Vibe
-
-```python
-vibe = {
-    "code"    : "🌸 Clean · Beautiful UI · Real impact",
-    "mobile"  : "💜 Apps that delight users",
-    "cloud"   : "☁️  Deployments that scale",
-    "ai"      : "🤖 Tools that solve problems",
-    "mindset" : "✨ Always learning, always growing",
-}
-```
-</td>
-<td width="4%"></td>
-<td width="54%" valign="top">
-
+<img align="right" width="260" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 ### 🪄 Who am I?
-
+ 
 Hi! I'm **Catherine Jenishtha J** — a passionate **Full-Stack & Flutter Developer** based in **Chennai, India 🇮🇳**, currently crafting digital experiences at **Amorio Technologies**.
-
+ 
 I hold a **B.E. in Computer Science & Engineering** and love bridging the gap between beautiful UI and powerful backend systems.
-
+ 
 <br/>
-
 ### 💫 At a Glance
-
+ 
 | | |
 |:---|:---|
 | 🏢 **Role** | Junior Software Developer |
@@ -70,19 +42,27 @@ I hold a **B.E. in Computer Science & Engineering** and love bridging the gap be
 | 🚀 **Superpower** | 90% buffering reduction |
 | 🌱 **Learning** | AWS · LangChain · System Design |
 | 🎯 **Goal** | Build things that matter |
-
+ 
 <br/>
-
-
-
-</td>
-</tr>
-</table>
-
+> *✨ She codes with grace, debugs with patience, and ships with pride. 🌸*
+ 
+<br/>
+### 🌺 My Vibe
+ 
+```python
+vibe = {
+    "code"    : "🌸 Clean · Beautiful UI · Real impact",
+    "mobile"  : "💜 Apps that delight users",
+    "cloud"   : "☁️  Deployments that scale",
+    "ai"      : "🤖 Tools that solve problems",
+    "mindset" : "✨ Always learning, always growing",
+}
+```
+ 
+<br clear="right"/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19,20&height=3&section=footer" width="100%"/>
 </div>
-
 ---
 
 ---
