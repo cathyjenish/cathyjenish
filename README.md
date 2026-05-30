@@ -178,9 +178,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🤖 AI Code Reviewer]([https://github.com/cathyjenish](https://github.com/cathyjenish/Python-Projects)) | Python · Streamlit · LLM | Multi-language AI tool for automated code review; detects bugs, style issues & improvements in real-time |
-| [☁️ Azure Static Website Hosting]([https://github.com/cathyjenish](https://github.com/cathyjenish/Azure-Virtual-Network-Bastion-Host)) | Azure · Blob Storage · HTML/CSS | Deployed a fully static website on Azure Blob Storage with CDN integration and public access configuration |
-| [🚁 Shortest Path + Obstacle Avoidance]([https://github.com/cathyjenish](https://github.com/cathyjenish/Shortest-path-planning)) | Python · Dijkstra's · Geometry | Path planning algorithm navigating around polygonal obstacles; achieved **90% buffering reduction** in drone feeds |
+| [🤖 AI Code Reviewer](https://github.com/cathyjenish/Python-Projects) | Python · Streamlit · LLM | Multi-language AI tool for automated code review; detects bugs, style issues & improvements in real-time |
+| [☁️ Azure Static Website Hosting](https://github.com/cathyjenish/Azure-Virtual-Network-Bastion-Host) | Azure · Blob Storage · HTML/CSS | Deployed a fully static website on Azure Blob Storage with CDN integration and public access configuration |
+| [🚁 Shortest Path + Obstacle Avoidance](https://github.com/cathyjenish/Shortest-path-planning) | Python · Dijkstra's · Geometry | Path planning algorithm navigating around polygonal obstacles; achieved **90% buffering reduction** in drone feeds |
 | [🏥 Flutter + Django Hospital System](https://github.com/cathyjenish) | Flutter · Django · SQL | Full-stack hospital management system with patient records, appointment scheduling & doctor management |
 
 </div>
