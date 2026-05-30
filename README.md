@@ -17,44 +17,71 @@
 </div>
 
 ---
-
 ## 🌸 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19,20&height=3&section=header" width="100%"/>
+</div>
 
-```python
-class CatherineJenishtha:
-    def __init__(self):
-        self.name        = "Catherine Jenishtha J"
-        self.location    = "Chennai, India 🇮🇳"
-        self.degree      = "B.E. Computer Science & Engineering"
-        self.role        = "Junior Software Developer @ Amorio Technologies"
+<br/>
 
-        self.stack = [
-            "Python", "Django", "React",
-            "Flutter", "Node.js", "Flask"
-        ]
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="42%" align="center" valign="top">
 
-        self.currently_learning = [
-            "Advanced Flutter & Dart",
-            "System Design",
-            "AWS & Cloud Architecture",
-            "LLM Integration & LangChain"
-        ]
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" style="border-radius: 20px;"/>
 
-        self.superpower = (
-            "Reduced live streaming video buffering by 90% 🚀"
-            " using Dijkstra's algorithm + CNN obstacle avoidance"
-        )
+<br/><br/>
 
-    def motto(self) -> str:
-        return "Build things that matter. Learn something every day. 🌸"
+> *✨ She codes with grace,*
+> *debugs with patience,*
+> *and ships with pride. 🌸*
 
-me = CatherineJenishtha()
-print(me.motto())
+</td>
+<td width="4%"></td>
+<td width="54%" valign="top">
+
+### 🪄 Who am I?
+
+Hi! I'm **Catherine Jenishtha J** — a passionate **Full-Stack & Flutter Developer** based in **Chennai, India 🇮🇳**, currently crafting digital experiences at **Amorio Technologies**.
+
+I hold a **B.E. in Computer Science & Engineering** and love bridging the gap between beautiful UI and powerful backend systems.
+
+<br/>
+
+### 💫 At a Glance
+
+| | |
+|:---|:---|
+| 🏢 **Role** | Junior Software Developer |
+| 🏙️ **Location** | Chennai, India |
+| 🎓 **Degree** | B.E. CSE — 8.4 CGPA |
+| 💻 **Loves** | Flutter · Django · React |
+| 🚀 **Superpower** | 90% buffering reduction |
+| 🌱 **Learning** | AWS · LangChain · System Design |
+| 🎯 **Goal** | Build things that matter |
+
+<br/>
+
+### 🌺 My Vibe
+
+```
+🌸  Clean code  ·  Beautiful UI  ·  Real impact
+💜  Mobile apps that delight users
+☁️  Cloud deployments that scale
+🤖  AI tools that solve problems
+✨  Always learning, always growing
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19,20&height=3&section=footer" width="100%"/>
+</div>
+
+---
 
 ---
 
