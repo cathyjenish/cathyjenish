@@ -126,6 +126,10 @@ print(me.motto())
 
 <div align="center">
 
+**2026**
+
+[![2026](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2026-01-01&to=2026-12-31&custom_title=2026+Contribution+Graph)](https://github.com/cathyjenish)
+
 **2025**
 
 [![2025](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2025-01-01&to=2025-12-31&custom_title=2025+Contribution+Graph)](https://github.com/cathyjenish)
