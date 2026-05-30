@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=200&section=header&text=Catherine%20%F0%9F%8C%B8%20Jenishtha%20J&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Full-Stack%20%7C%20Flutter%20%7C%20Python%20%7C%20Cloud&descAlignY=62&descSize=15&fontStyle=italic" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20&height=200&section=header&text=CatherineJenishtha%20J&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Full-Stack%20%7C%20Flutter%20%7C%20Python%20%7C%20Cloud&descAlignY=62&descSize=15&fontStyle=italic" width="100%"/>
 
 <div align="center">
 
@@ -125,17 +125,7 @@ print(me.motto())
 
 </div>
 
----
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cathyjenish&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=6)](https://github.com/cathyjenish)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
