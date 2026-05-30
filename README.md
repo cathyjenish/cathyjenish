@@ -86,6 +86,8 @@ print(me.motto())
 ![Firebase](https://img.shields.io/badge/Firebase-FAE8F2?style=for-the-badge&logo=firebase&logoColor=C96B9A)
 ![Git](https://img.shields.io/badge/Git-FAE8F2?style=for-the-badge&logo=git&logoColor=C96B9A)
 ![GitHub](https://img.shields.io/badge/GitHub-FAE8F2?style=for-the-badge&logo=github&logoColor=C96B9A)
+![Railway](https://img.shields.io/badge/Railway-FAE8F2?style=for-the-badge&logo=railway&logoColor=C96B9A)
+![Vercel](https://img.shields.io/badge/Vercel-FAE8F2?style=for-the-badge&logo=vercel&logoColor=C96B9A)
 
 **✦ Databases & ML**
 
@@ -94,7 +96,14 @@ print(me.motto())
 ![OpenCV](https://img.shields.io/badge/OpenCV-F0D5A5?style=for-the-badge&logo=opencv&logoColor=9B6B8A)
 ![Keras](https://img.shields.io/badge/Keras-F0D5A5?style=for-the-badge&logo=keras&logoColor=9B6B8A)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-F0D5A5?style=for-the-badge&logo=yolo&logoColor=9B6B8A)
+![uv](https://img.shields.io/badge/uv-F0D5A5?style=for-the-badge&logo=astral&logoColor=9B6B8A)
+![Ruff](https://img.shields.io/badge/Ruff-F0D5A5?style=for-the-badge&logo=ruff&logoColor=9B6B8A)
 
+**✦ AI Tools & Dev Assistants**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-F2E6FF?style=for-the-badge&logo=anthropic&logoColor=7B4FA6)
+![Kilo Code](https://img.shields.io/badge/Kilo_Code-F2E6FF?style=for-the-badge&logo=visualstudiocode&logoColor=7B4FA6)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-F2E6FF?style=for-the-badge&logo=amazonaws&logoColor=7B4FA6)
 ---
 
 ## 📊 GitHub Stats
