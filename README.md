@@ -38,12 +38,14 @@
 > *and ships with pride. 🌸*
 ### 🌺 My Vibe
 
-```
-🌸  Clean code  ·  Beautiful UI  ·  Real impact
-💜  Mobile apps that delight users
-☁️  Cloud deployments that scale
-🤖  AI tools that solve problems
-✨  Always learning, always growing
+```python
+vibe = {
+    "code"    : "🌸 Clean · Beautiful UI · Real impact",
+    "mobile"  : "💜 Apps that delight users",
+    "cloud"   : "☁️  Deployments that scale",
+    "ai"      : "🤖 Tools that solve problems",
+    "mindset" : "✨ Always learning, always growing",
+}
 ```
 </td>
 <td width="4%"></td>
