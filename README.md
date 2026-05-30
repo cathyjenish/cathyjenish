@@ -37,8 +37,8 @@ class CatherineJenishtha:
         ]
 
         self.fun_fact = (
-            "I reduced drone video buffering by 90% "
-            "using Dijkstra's algorithm 🚁"
+            "I reduced live streaming video buffering by 90% "
+            "Shortest path planning with obstacle avoidance using Djikstra algorithm and CNN"
         )
 
     def motto(self):
@@ -136,7 +136,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cathyjenish02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/cathyjenish02)
+![](https://github-contributor-stats.vercel.app/api?username=cathyjenish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
