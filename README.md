@@ -6,7 +6,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=cathyjenish&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/cathyjenish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/catherine-jenishtha)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=google-chrome&logoColor=white)]([https://cathyjenish.github.io/Portfolio/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=google-chrome&logoColor=white)](https://cathyjenish.github.io/Portfolio/)
+
 [![Email](https://img.shields.io/badge/Email-cathyjenish%40gmail.com-BF91F3?style=flat-square&logo=gmail&logoColor=white)](mailto:cathyjenish02@gmail.com)
 
 </div>
