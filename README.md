@@ -4,10 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Catherine+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Django;Flutter+%26+Mobile+App+Builder;Python+%7C+ML+%7C+Cloud+Enthusiast)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=cathyjenish02&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/cathyjenish02)
+[![Profile Views](https://komarev.com/ghpvc/?username=cathyjenish&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/cathyjenish)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/catherine-jenishtha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.cathyjenish02.dev)
-[![Email](https://img.shields.io/badge/Email-cathyjenish02%40gmail.com-BF91F3?style=flat-square&logo=gmail&logoColor=white)](mailto:cathyjenish02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDAE?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.cathyjenish.dev)
+[![Email](https://img.shields.io/badge/Email-cathyjenish%40gmail.com-BF91F3?style=flat-square&logo=gmail&logoColor=white)](mailto:cathyjenish02@gmail.com)
 
 </div>
 
@@ -101,11 +101,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/cathyjenish02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cathyjenish02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/cathyjenish">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cathyjenish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/cathyjenish02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathyjenish02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/cathyjenish">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathyjenish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -116,7 +116,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cathyjenish02&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cathyjenish&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -126,7 +126,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Catherine's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish02&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/cathyjenish02)
+[![Catherine's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/cathyjenish)
 
 </div>
 
@@ -179,10 +179,10 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🤖 AI Code Reviewer](https://github.com/cathyjenish02) | Python · Streamlit · LLM | Multi-language AI tool for automated code review; detects bugs, style issues & improvements in real-time |
-| [☁️ Azure Static Website Hosting](https://github.com/cathyjenish02) | Azure · Blob Storage · HTML/CSS | Deployed a fully static website on Azure Blob Storage with CDN integration and public access configuration |
-| [🚁 Shortest Path + Obstacle Avoidance](https://github.com/cathyjenish02) | Python · Dijkstra's · Geometry | Path planning algorithm navigating around polygonal obstacles; achieved **90% buffering reduction** in drone feeds |
-| [🏥 Flutter + Django Hospital System](https://github.com/cathyjenish02) | Flutter · Django · SQL | Full-stack hospital management system with patient records, appointment scheduling & doctor management |
+| [🤖 AI Code Reviewer](https://github.com/cathyjenish) | Python · Streamlit · LLM | Multi-language AI tool for automated code review; detects bugs, style issues & improvements in real-time |
+| [☁️ Azure Static Website Hosting](https://github.com/cathyjenish) | Azure · Blob Storage · HTML/CSS | Deployed a fully static website on Azure Blob Storage with CDN integration and public access configuration |
+| [🚁 Shortest Path + Obstacle Avoidance](https://github.com/cathyjenish) | Python · Dijkstra's · Geometry | Path planning algorithm navigating around polygonal obstacles; achieved **90% buffering reduction** in drone feeds |
+| [🏥 Flutter + Django Hospital System](https://github.com/cathyjenish) | Flutter · Django · SQL | Full-stack hospital management system with patient records, appointment scheduling & doctor management |
 
 </div>
 
@@ -237,7 +237,7 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/catherine-jenishtha)
 [![Email](https://img.shields.io/badge/Email-BF91F3?style=flat-square&logo=gmail&logoColor=white)](mailto:cathyjenish02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cathyjenish02)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cathyjenish)
 
 </div>
 
