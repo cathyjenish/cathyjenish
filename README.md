@@ -134,13 +134,6 @@ print(me.motto())
 
 [![2024](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2024-01-01&to=2024-12-31&custom_title=2024+Contribution+Graph)](https://github.com/cathyjenish)
 
-**2023**
-
-[![2023](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2023-01-01&to=2023-12-31&custom_title=2023+Contribution+Graph)](https://github.com/cathyjenish)
-
-**2022**
-
-[![2022](https://github-readme-activity-graph.vercel.app/graph?username=cathyjenish&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&from=2022-01-01&to=2022-12-31&custom_title=2022+Contribution+Graph)](https://github.com/cathyjenish)
 
 </div>
 
