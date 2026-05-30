@@ -36,7 +36,15 @@
 > *✨ She codes with grace,*
 > *debugs with patience,*
 > *and ships with pride. 🌸*
+### 🌺 My Vibe
 
+```
+🌸  Clean code  ·  Beautiful UI  ·  Real impact
+💜  Mobile apps that delight users
+☁️  Cloud deployments that scale
+🤖  AI tools that solve problems
+✨  Always learning, always growing
+```
 </td>
 <td width="4%"></td>
 <td width="54%" valign="top">
@@ -63,15 +71,7 @@ I hold a **B.E. in Computer Science & Engineering** and love bridging the gap be
 
 <br/>
 
-### 🌺 My Vibe
 
-```
-🌸  Clean code  ·  Beautiful UI  ·  Real impact
-💜  Mobile apps that delight users
-☁️  Cloud deployments that scale
-🤖  AI tools that solve problems
-✨  Always learning, always growing
-```
 
 </td>
 </tr>
